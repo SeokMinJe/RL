@@ -1,2 +1,6 @@
 # RL
-Reinforcement Learning in small Knapsack env(selfmade) with DQN, DDQN, D3QN
+## Knapsack env
+Reinforcement Learning in Knapsack env with DQN, DDQN, D3QN
+
+## Coloring graph env
+Reinforcement Learning in coloring graph env with DQN, DDQN, D3Qn
